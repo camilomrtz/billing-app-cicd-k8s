@@ -79,6 +79,10 @@ docker-compose up -d
 •
 •
 •
+•
+•
+•
+•
 
 ## 🚧Proyecto en construcción🚧⌚
 
